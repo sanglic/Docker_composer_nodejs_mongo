@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost/PruebaNode', {
+mongoose.connect('mongodb://mongo/PruebaNode', {
     useCreateIndex: true,
     useNewUrlParser: true,
     useFindAndModify: false,

@@ -2,8 +2,9 @@
   "name": "handlerbar",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "/index",
   "scripts": {
+    "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
   "keywords": [],

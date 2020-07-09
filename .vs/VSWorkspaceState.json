@@ -5,12 +5,11 @@
     "\\src\\config",
     "\\src\\models",
     "\\src\\public",
-    "\\src\\public\\css",
     "\\src\\routes",
     "\\src\\views",
     "\\src\\views\\layouts",
     "\\src\\views\\notes"
   ],
-  "SelectedNode": "\\src\\index.js",
+  "SelectedNode": "\\src\\views\\notes\\create-graphs.hbs",
   "PreviewInSolutionExplorer": false
 }
